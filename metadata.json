@@ -1,0 +1,6 @@
+{
+  "name": "QueueSmart AI - Hospital Queue Management",
+  "description": "Intelligent hospital queue management system featuring digital token generation, real-time wait estimation, live tracking, appointment scheduling, and hospital administration intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
